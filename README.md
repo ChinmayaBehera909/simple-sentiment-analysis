@@ -4,7 +4,7 @@ This repository provides a simple sentiment prediction tool for employee fedback
 
 ### How to Use
 Command Line arguments -
-``````shell
+```shell
 ~\sentiment.py -h
 usage: sentiment.py [-h] [--i Input_path] [--co Output_1_path] [--so Output_2_path]
 
